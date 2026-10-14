@@ -1,0 +1,1076 @@
+{
+  "states": {
+    "Tamil Nadu": {
+      "name_ta": "தமிழ்நாடு",
+      "districts": [
+        "Thanjavur",
+        "Coimbatore",
+        "Madurai",
+        "Tiruchirappalli",
+        "Salem",
+        "Erode",
+        "Tirunelveli",
+        "Dindigul",
+        "Vellore",
+        "Cuddalore",
+        "Tiruppur",
+        "Theni",
+        "Virudhunagar",
+        "Karur",
+        "Nagapattinam",
+        "Thiruvarur"
+      ],
+      "primary_soils": [
+        "red",
+        "black",
+        "alluvial",
+        "loamy",
+        "sandy"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 29.5,
+          "humidity": 75,
+          "rainfall": 120
+        },
+        "rabi": {
+          "temp": 25.5,
+          "humidity": 80,
+          "rainfall": 190
+        },
+        "zaid": {
+          "temp": 32.0,
+          "humidity": 65,
+          "rainfall": 35
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "banana",
+        "coconut",
+        "cotton",
+        "blackgram",
+        "maize",
+        "mango",
+        "coffee",
+        "papaya"
+      ]
+    },
+    "Andhra Pradesh": {
+      "name_ta": "ஆந்திரப் பிரதேசம்",
+      "districts": [
+        "Guntur",
+        "Krishna",
+        "West Godavari",
+        "East Godavari",
+        "Kurnool",
+        "Anantapur",
+        "Chittoor",
+        "Prakasam",
+        "Nellore",
+        "Kadapa"
+      ],
+      "primary_soils": [
+        "red",
+        "black",
+        "alluvial",
+        "loamy"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 30.5,
+          "humidity": 78,
+          "rainfall": 170
+        },
+        "rabi": {
+          "temp": 24.0,
+          "humidity": 65,
+          "rainfall": 45
+        },
+        "zaid": {
+          "temp": 33.0,
+          "humidity": 55,
+          "rainfall": 20
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "cotton",
+        "blackgram",
+        "chickpea",
+        "maize",
+        "mango",
+        "banana",
+        "papaya",
+        "pomegranate"
+      ]
+    },
+    "Karnataka": {
+      "name_ta": "கர்நாடகா",
+      "districts": [
+        "Belagavi",
+        "Mysuru",
+        "Mandya",
+        "Dharwad",
+        "Ballari",
+        "Shivamogga",
+        "Hassan",
+        "Kodagu",
+        "Vijayapura",
+        "Tumakuru"
+      ],
+      "primary_soils": [
+        "red",
+        "black",
+        "loamy",
+        "sandy"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 26.5,
+          "humidity": 78,
+          "rainfall": 160
+        },
+        "rabi": {
+          "temp": 23.0,
+          "humidity": 64,
+          "rainfall": 35
+        },
+        "zaid": {
+          "temp": 29.5,
+          "humidity": 52,
+          "rainfall": 25
+        }
+      },
+      "favored_crops": [
+        "maize",
+        "cotton",
+        "coffee",
+        "pigeonpeas",
+        "chickpea",
+        "coconut",
+        "banana",
+        "pomegranate",
+        "grapes"
+      ]
+    },
+    "Kerala": {
+      "name_ta": "கேரளா",
+      "districts": [
+        "Palakkad",
+        "Wayanad",
+        "Idukki",
+        "Thrissur",
+        "Alappuzha",
+        "Kollam",
+        "Kottayam",
+        "Kozhikode",
+        "Kannur",
+        "Malappuram"
+      ],
+      "primary_soils": [
+        "red",
+        "loamy",
+        "alluvial",
+        "sandy"
+      ],
+      "rainfall_profile": "Very High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 27.0,
+          "humidity": 88,
+          "rainfall": 280
+        },
+        "rabi": {
+          "temp": 26.0,
+          "humidity": 80,
+          "rainfall": 75
+        },
+        "zaid": {
+          "temp": 29.0,
+          "humidity": 76,
+          "rainfall": 60
+        }
+      },
+      "favored_crops": [
+        "coconut",
+        "rice",
+        "banana",
+        "coffee",
+        "papaya"
+      ]
+    },
+    "Maharashtra": {
+      "name_ta": "மகாராஷ்டிரா",
+      "districts": [
+        "Pune",
+        "Nashik",
+        "Nagpur",
+        "Ahmednagar",
+        "Solapur",
+        "Kolhapur",
+        "Aurangabad",
+        "Amravati",
+        "Jalgaon",
+        "Satara",
+        "Sangli",
+        "Yavatmal"
+      ],
+      "primary_soils": [
+        "black",
+        "red",
+        "loamy",
+        "clay"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 27.5,
+          "humidity": 82,
+          "rainfall": 165
+        },
+        "rabi": {
+          "temp": 22.0,
+          "humidity": 60,
+          "rainfall": 20
+        },
+        "zaid": {
+          "temp": 32.5,
+          "humidity": 45,
+          "rainfall": 10
+        }
+      },
+      "favored_crops": [
+        "cotton",
+        "pigeonpeas",
+        "chickpea",
+        "pomegranate",
+        "grapes",
+        "orange",
+        "banana",
+        "blackgram",
+        "mungbean"
+      ]
+    },
+    "Punjab": {
+      "name_ta": "பஞ்சாப்",
+      "districts": [
+        "Ludhiana",
+        "Amritsar",
+        "Bathinda",
+        "Jalandhar",
+        "Patiala",
+        "Sangrur",
+        "Hoshiarpur",
+        "Firozpur",
+        "Gurdaspur",
+        "Moga"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "loamy",
+        "clay"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 31.0,
+          "humidity": 72,
+          "rainfall": 140
+        },
+        "rabi": {
+          "temp": 15.0,
+          "humidity": 65,
+          "rainfall": 30
+        },
+        "zaid": {
+          "temp": 32.0,
+          "humidity": 40,
+          "rainfall": 15
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "cotton",
+        "maize",
+        "muskmelon",
+        "watermelon",
+        "mungbean",
+        "orange"
+      ]
+    },
+    "Telangana": {
+      "name_ta": "தெலங்கானா",
+      "districts": [
+        "Warangal",
+        "Karimnagar",
+        "Nalgonda",
+        "Khammam",
+        "Nizamabad",
+        "Mahabubnagar",
+        "Medak",
+        "Adilabad",
+        "Ranga Reddy"
+      ],
+      "primary_soils": [
+        "red",
+        "black",
+        "loamy"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 29.5,
+          "humidity": 78,
+          "rainfall": 175
+        },
+        "rabi": {
+          "temp": 23.5,
+          "humidity": 62,
+          "rainfall": 20
+        },
+        "zaid": {
+          "temp": 34.0,
+          "humidity": 48,
+          "rainfall": 15
+        }
+      },
+      "favored_crops": [
+        "cotton",
+        "rice",
+        "maize",
+        "pigeonpeas",
+        "chickpea",
+        "mango",
+        "blackgram"
+      ]
+    },
+    "Gujarat": {
+      "name_ta": "குஜராத்",
+      "districts": [
+        "Ahmedabad",
+        "Surat",
+        "Rajkot",
+        "Vadodara",
+        "Junagadh",
+        "Bhavnagar",
+        "Kutch",
+        "Amreli",
+        "Banaskantha",
+        "Mehsana"
+      ],
+      "primary_soils": [
+        "black",
+        "sandy",
+        "alluvial",
+        "loamy"
+      ],
+      "rainfall_profile": "Medium-Low",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 30.0,
+          "humidity": 74,
+          "rainfall": 130
+        },
+        "rabi": {
+          "temp": 22.0,
+          "humidity": 52,
+          "rainfall": 10
+        },
+        "zaid": {
+          "temp": 34.0,
+          "humidity": 45,
+          "rainfall": 5
+        }
+      },
+      "favored_crops": [
+        "cotton",
+        "pomegranate",
+        "mothbeans",
+        "mungbean",
+        "banana",
+        "papaya",
+        "mango",
+        "chickpea"
+      ]
+    },
+    "Madhya Pradesh": {
+      "name_ta": "மத்தியப் பிரதேசம்",
+      "districts": [
+        "Indore",
+        "Bhopal",
+        "Ujjain",
+        "Jabalpur",
+        "Gwalior",
+        "Sagar",
+        "Hoshangabad",
+        "Dewas",
+        "Dhar",
+        "Khargone",
+        "Chhindwara"
+      ],
+      "primary_soils": [
+        "black",
+        "red",
+        "loamy",
+        "alluvial"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 28.5,
+          "humidity": 80,
+          "rainfall": 170
+        },
+        "rabi": {
+          "temp": 19.0,
+          "humidity": 58,
+          "rainfall": 15
+        },
+        "zaid": {
+          "temp": 33.0,
+          "humidity": 40,
+          "rainfall": 10
+        }
+      },
+      "favored_crops": [
+        "chickpea",
+        "blackgram",
+        "pigeonpeas",
+        "lentil",
+        "cotton",
+        "maize",
+        "orange",
+        "papaya"
+      ]
+    },
+    "Rajasthan": {
+      "name_ta": "ராஜஸ்தான்",
+      "districts": [
+        "Jaipur",
+        "Jodhpur",
+        "Kota",
+        "Bikaner",
+        "Sri Ganganagar",
+        "Alwar",
+        "Nagaur",
+        "Barmer",
+        "Udaipur",
+        "Sikar",
+        "Ajmer"
+      ],
+      "primary_soils": [
+        "sandy",
+        "loamy",
+        "black",
+        "red"
+      ],
+      "rainfall_profile": "Low",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 32.5,
+          "humidity": 62,
+          "rainfall": 85
+        },
+        "rabi": {
+          "temp": 18.0,
+          "humidity": 48,
+          "rainfall": 10
+        },
+        "zaid": {
+          "temp": 36.0,
+          "humidity": 30,
+          "rainfall": 5
+        }
+      },
+      "favored_crops": [
+        "mothbeans",
+        "mungbean",
+        "chickpea",
+        "cotton",
+        "pomegranate",
+        "watermelon",
+        "muskmelon"
+      ]
+    },
+    "Uttar Pradesh": {
+      "name_ta": "உத்தரப் பிரதேசம்",
+      "districts": [
+        "Varanasi",
+        "Meerut",
+        "Lucknow",
+        "Agra",
+        "Prayagraj",
+        "Bareilly",
+        "Aligarh",
+        "Gorakhpur",
+        "Kanpur",
+        "Muzaffarnagar",
+        "Jhansi",
+        "Barabanki"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "loamy",
+        "clay",
+        "sandy"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 30.5,
+          "humidity": 78,
+          "rainfall": 170
+        },
+        "rabi": {
+          "temp": 17.0,
+          "humidity": 65,
+          "rainfall": 25
+        },
+        "zaid": {
+          "temp": 33.5,
+          "humidity": 45,
+          "rainfall": 15
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "maize",
+        "chickpea",
+        "lentil",
+        "pigeonpeas",
+        "mango",
+        "watermelon",
+        "muskmelon",
+        "banana"
+      ]
+    },
+    "West Bengal": {
+      "name_ta": "மேற்கு வங்கம்",
+      "districts": [
+        "Burdwan",
+        "Murshidabad",
+        "Nadia",
+        "Hooghly",
+        "Midnapore",
+        "Birbhum",
+        "Malda",
+        "North 24 Parganas",
+        "Cooch Behar",
+        "Jalpaiguri"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "clay",
+        "loamy",
+        "red"
+      ],
+      "rainfall_profile": "High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 29.5,
+          "humidity": 85,
+          "rainfall": 240
+        },
+        "rabi": {
+          "temp": 20.0,
+          "humidity": 70,
+          "rainfall": 25
+        },
+        "zaid": {
+          "temp": 30.5,
+          "humidity": 68,
+          "rainfall": 60
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "jute",
+        "lentil",
+        "banana",
+        "mango",
+        "coconut"
+      ]
+    },
+    "Bihar": {
+      "name_ta": "பீகார்",
+      "districts": [
+        "Patna",
+        "Muzaffarpur",
+        "Gaya",
+        "Bhagalpur",
+        "Darbhanga",
+        "Rohtas",
+        "Samastipur",
+        "Begusarai",
+        "Purnia",
+        "Vaishali"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "loamy",
+        "clay"
+      ],
+      "rainfall_profile": "Medium-High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 29.5,
+          "humidity": 82,
+          "rainfall": 190
+        },
+        "rabi": {
+          "temp": 18.5,
+          "humidity": 68,
+          "rainfall": 20
+        },
+        "zaid": {
+          "temp": 31.0,
+          "humidity": 58,
+          "rainfall": 30
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "maize",
+        "lentil",
+        "chickpea",
+        "jute",
+        "mango",
+        "banana",
+        "watermelon"
+      ]
+    },
+    "Odisha": {
+      "name_ta": "ஒடிசா",
+      "districts": [
+        "Cuttack",
+        "Balasore",
+        "Bhadrak",
+        "Puri",
+        "Ganjam",
+        "Sambalpur",
+        "Bargarh",
+        "Khurda",
+        "Koraput",
+        "Mayurbhanj"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "red",
+        "clay",
+        "loamy"
+      ],
+      "rainfall_profile": "High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 29.0,
+          "humidity": 84,
+          "rainfall": 230
+        },
+        "rabi": {
+          "temp": 22.0,
+          "humidity": 70,
+          "rainfall": 25
+        },
+        "zaid": {
+          "temp": 31.5,
+          "humidity": 62,
+          "rainfall": 35
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "blackgram",
+        "coconut",
+        "banana",
+        "jute",
+        "mungbean"
+      ]
+    },
+    "Assam": {
+      "name_ta": "அசாம்",
+      "districts": [
+        "Kamrup",
+        "Nagaon",
+        "Sonitpur",
+        "Dibrugarh",
+        "Jorhat",
+        "Cachar",
+        "Barpeta",
+        "Darrang",
+        "Golaghat",
+        "Tinsukia"
+      ],
+      "primary_soils": [
+        "alluvial",
+        "clay",
+        "loamy",
+        "red"
+      ],
+      "rainfall_profile": "High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 28.5,
+          "humidity": 86,
+          "rainfall": 250
+        },
+        "rabi": {
+          "temp": 19.0,
+          "humidity": 75,
+          "rainfall": 35
+        },
+        "zaid": {
+          "temp": 26.0,
+          "humidity": 78,
+          "rainfall": 90
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "jute",
+        "banana",
+        "papaya",
+        "orange",
+        "blackgram"
+      ]
+    },
+    "Haryana": {
+      "name_ta": "ஹரியானா",
+      "districts": [
+        "Karnal",
+        "Hisar",
+        "Ambala",
+        "Kurukshetra",
+        "Sirsa",
+        "Rohtak",
+        "Sonipat",
+        "Panipat",
+        "Fatehabad",
+        "Bhiwani"
+      ],
+      "primary_soils": [
+        "loamy",
+        "alluvial",
+        "sandy"
+      ],
+      "rainfall_profile": "Medium-Low",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 31.0,
+          "humidity": 70,
+          "rainfall": 120
+        },
+        "rabi": {
+          "temp": 16.5,
+          "humidity": 62,
+          "rainfall": 25
+        },
+        "zaid": {
+          "temp": 32.5,
+          "humidity": 42,
+          "rainfall": 15
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "cotton",
+        "chickpea",
+        "mungbean",
+        "muskmelon",
+        "watermelon",
+        "maize"
+      ]
+    },
+    "Himachal Pradesh": {
+      "name_ta": "இமாச்சலப் பிரதேசம்",
+      "districts": [
+        "Shimla",
+        "Kullu",
+        "Mandi",
+        "Kangra",
+        "Solan",
+        "Chamba",
+        "Sirmaur",
+        "Kinnaur",
+        "Hamirpur",
+        "Una"
+      ],
+      "primary_soils": [
+        "loamy",
+        "clay",
+        "red"
+      ],
+      "rainfall_profile": "Medium-High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 22.0,
+          "humidity": 76,
+          "rainfall": 180
+        },
+        "rabi": {
+          "temp": 10.0,
+          "humidity": 58,
+          "rainfall": 60
+        },
+        "zaid": {
+          "temp": 20.0,
+          "humidity": 50,
+          "rainfall": 40
+        }
+      },
+      "favored_crops": [
+        "apple",
+        "kidneybeans",
+        "maize",
+        "pomegranate"
+      ]
+    },
+    "Jammu & Kashmir": {
+      "name_ta": "ஜம்மு காஷ்மீர்",
+      "districts": [
+        "Srinagar",
+        "Anantnag",
+        "Baramulla",
+        "Pulwama",
+        "Jammu",
+        "Kathua",
+        "Udhampur",
+        "Budgam",
+        "Kupwara",
+        "Shopian"
+      ],
+      "primary_soils": [
+        "loamy",
+        "clay",
+        "alluvial"
+      ],
+      "rainfall_profile": "Medium",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 21.0,
+          "humidity": 70,
+          "rainfall": 110
+        },
+        "rabi": {
+          "temp": 7.0,
+          "humidity": 65,
+          "rainfall": 70
+        },
+        "zaid": {
+          "temp": 19.0,
+          "humidity": 55,
+          "rainfall": 45
+        }
+      },
+      "favored_crops": [
+        "apple",
+        "kidneybeans",
+        "maize",
+        "rice"
+      ]
+    },
+    "Uttarakhand": {
+      "name_ta": "உத்தரகாண்ட்",
+      "districts": [
+        "Dehradun",
+        "Haridwar",
+        "Udham Singh Nagar",
+        "Nainital",
+        "Pauri Garhwal",
+        "Tehri Garhwal",
+        "Almora",
+        "Chamoli"
+      ],
+      "primary_soils": [
+        "loamy",
+        "alluvial",
+        "clay"
+      ],
+      "rainfall_profile": "Medium-High",
+      "climate_baseline": {
+        "kharif": {
+          "temp": 26.0,
+          "humidity": 80,
+          "rainfall": 210
+        },
+        "rabi": {
+          "temp": 13.0,
+          "humidity": 64,
+          "rainfall": 45
+        },
+        "zaid": {
+          "temp": 25.0,
+          "humidity": 50,
+          "rainfall": 30
+        }
+      },
+      "favored_crops": [
+        "rice",
+        "maize",
+        "apple",
+        "kidneybeans",
+        "lentil",
+        "mango"
+      ]
+    }
+  },
+  "soil_types": [
+    {
+      "id": "loamy",
+      "label_en": "Loamy Soil",
+      "label_ta": "இருமண் / வண்டல் இருமண்",
+      "label": "Loamy Soil / இருமண்",
+      "desc_en": "Balanced, fertile, well-draining soil with rich organic content. Best all-around farming soil.",
+      "desc_ta": "சமச்சீரான, செழிப்பான மற்றும் நல்ல வடிகால் வசதி கொண்ட சிறந்த விவசாய மண்."
+    },
+    {
+      "id": "black",
+      "label_en": "Black Cotton Soil",
+      "label_ta": "கரிசல் மண்",
+      "label": "Black Cotton Soil / கரிசல் மண்",
+      "desc_en": "Clay-rich, moisture-retentive dark soil excellent for cotton, pulses, and oilseeds.",
+      "desc_ta": "ஈரப்பதத்தை நன்கு தக்கவைக்கும் அடர் மண்; பருத்தி மற்றும் பயறு வகைகளுக்கு உகந்தது."
+    },
+    {
+      "id": "clay",
+      "label_en": "Clay / Alluvial Soil",
+      "label_ta": "வண்டல் & களிமண்",
+      "label": "Clay / Alluvial Soil / வண்டல் & களிமண்",
+      "desc_en": "Fine texture with superior water retention. Ideal for paddy rice, banana, and sugarcane.",
+      "desc_ta": "அதிக நீரைத் தேக்கும் வண்டல் களிமண்; நெல் மற்றும் வாழை சாகுபடிக்கு மிகச் சிறந்தது."
+    },
+    {
+      "id": "red",
+      "label_en": "Red / Laterite Soil",
+      "label_ta": "செம்மண்",
+      "label": "Red / Laterite Soil / செம்மண்",
+      "desc_en": "Iron-rich, permeable, aerated soil. Great for groundnut, pulses, maize, and plantation crops.",
+      "desc_ta": "இரும்புச்சத்து நிறைந்த காற்றோட்டமான மண்; மக்காச்சோளம், பயறு மற்றும் தென்னைக்கு ஏற்றது."
+    },
+    {
+      "id": "sandy",
+      "label_en": "Sandy Soil",
+      "label_ta": "மணல் மண்",
+      "label": "Sandy Soil / மணல் மண்",
+      "desc_en": "Coarse, well-aerated, quick-draining soil. Thrives with coconut, melons, and drought-tolerant pulses.",
+      "desc_ta": "மணற்பாங்கான வடிகால் மண்; தென்னை, தர்பூசணி மற்றும் வறட்சியைத் தாங்கும் பயிர்களுக்கு ஏற்றது."
+    }
+  ],
+  "seasons": [
+    {
+      "id": "kharif",
+      "label_en": "Kharif Season (Monsoon: June - October)",
+      "label_ta": "குறுவை / காரிஃப் பருவம் (ஜூன் - அக்டோபர்)",
+      "label": "Kharif / குறுவை (June - October)",
+      "period_en": "June to October",
+      "period_ta": "ஜூன் முதல் அக்டோபர் வரை",
+      "tag_en": "Monsoon",
+      "tag_ta": "மழைக்காலம்",
+      "desc_en": "Sown at the onset of monsoon and harvested in autumn.",
+      "desc_ta": "பருவமழை துவக்கத்தில் விதைக்கப்பட்டு இலையுதிர் காலத்தில் அறுவடை செய்யப்படுகிறது."
+    },
+    {
+      "id": "rabi",
+      "label_en": "Rabi Season (Winter: October - March)",
+      "label_ta": "சம்பா & தாளடி / ரபி (அக்டோபர் - மார்ச்)",
+      "label": "Rabi / சம்பா (October - March)",
+      "period_en": "October to March",
+      "period_ta": "அக்டோபர் முதல் மார்ச் வரை",
+      "tag_en": "Winter",
+      "tag_ta": "குளிர்காலம்",
+      "desc_en": "Sown after monsoon in winter and harvested in spring.",
+      "desc_ta": "குளிர்காலத்தில் விதைக்கப்பட்டு வசந்த காலத்தில் அறுவடை செய்யப்படுகிறது."
+    },
+    {
+      "id": "zaid",
+      "label_en": "Zaid Season (Summer: March - June)",
+      "label_ta": "கோடைப் பருவம் / சையத் (மார்ச் - ஜூன்)",
+      "label": "Zaid / கோடைப் பருவம் (March - June)",
+      "period_en": "March to June",
+      "period_ta": "மார்ச் முதல் ஜூன் வரை",
+      "tag_en": "Summer",
+      "tag_ta": "கோடைக்காலம்",
+      "desc_en": "Short warm season between Rabi and Kharif for quick crops.",
+      "desc_ta": "குறுகிய கால இடைவெளியில் விரைந்து பலன் தரும் கோடைக்கால பயிர்கள்."
+    },
+    {
+      "id": "whole_year",
+      "label_en": "Whole Year / Perennial",
+      "label_ta": "ஆண்டு முழுவதும் / பல்லாண்டு பயிர்கள்",
+      "label": "Whole Year / பல்லாண்டு",
+      "period_en": "All seasons",
+      "period_ta": "அனைத்து பருவங்களும்",
+      "tag_en": "Perennial",
+      "tag_ta": "பல்லாண்டு",
+      "desc_en": "Orchards, coconut groves, and long-duration plantation crops.",
+      "desc_ta": "தென்னந்தோப்பு, பழத்தோட்டங்கள் மற்றும் நீண்ட கால தோட்டப்பயிர்கள்."
+    }
+  ],
+  "water_options": [
+    {
+      "id": "rain_fed",
+      "label_en": "Rain-fed Only",
+      "label_ta": "மானாவாரி (மழை சார்ந்தது)",
+      "label": "Rain-fed Only / மானாவாரி",
+      "desc_en": "Dependent purely on natural rainfall without dedicated borewell or canal supply.",
+      "desc_ta": "முழுக்க முழுக்க இயற்கை மழையை மட்டுமே நம்பிய விவசாயம்."
+    },
+    {
+      "id": "limited_irrigation",
+      "label_en": "Limited Irrigation (1 to 3 Irrigations)",
+      "label_ta": "குறைந்த பாசனம் (1 - 3 முறை பாசனம்)",
+      "label": "Limited Irrigation / குறைந்த பாசனம்",
+      "desc_en": "Access to 1-3 protective waterings from farm well, pond, or intermittent canal.",
+      "desc_ta": "கிணறு அல்லது வாய்க்கால் மூலம் 1 முதல் 3 முறை மட்டுமே உயிர் தண்ணீர் பாய்ச்சும் வசதி."
+    },
+    {
+      "id": "sufficient_irrigation",
+      "label_en": "Sufficient / Assured Irrigation",
+      "label_ta": "பாசன வசதி உள்ளது (போர்வெல் / வாய்க்கால் / கிணறு)",
+      "label": "Sufficient Irrigation / பாசன வசதி உண்டு",
+      "desc_en": "Consistent assured water supply via tube-well, river canal, or drip system.",
+      "desc_ta": "ஆழ்துளை கிணறு, ஆற்று வாய்க்கால் அல்லது சொட்டுநீர் பாசன வசதி உள்ளது."
+    }
+  ],
+  "previous_crops": [
+    {
+      "id": "none",
+      "label": "None / Fallow Land / தரிசு நிலம்"
+    },
+    {
+      "id": "rice",
+      "label": "Rice / Paddy / நெல்"
+    },
+    {
+      "id": "wheat",
+      "label": "Wheat / கோதுமை"
+    },
+    {
+      "id": "maize",
+      "label": "Maize / Corn / மக்காச்சோளம்"
+    },
+    {
+      "id": "pulses",
+      "label": "Pulses (Blackgram / Chickpea / துவரை / உளுந்து)"
+    },
+    {
+      "id": "cotton",
+      "label": "Cotton / பருத்தி"
+    },
+    {
+      "id": "sugarcane",
+      "label": "Sugarcane / கரும்பு"
+    },
+    {
+      "id": "mustard",
+      "label": "Oilseeds / Groundnut / நிலக்கடலை & எள்"
+    },
+    {
+      "id": "vegetables",
+      "label": "Vegetables / காய்கறிகள்"
+    }
+  ]
+}

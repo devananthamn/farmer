@@ -1,0 +1,583 @@
+{
+  "rice": {
+    "name": "Rice / நெல் (Paddy)",
+    "name_en": "Rice (Paddy)",
+    "name_ta": "நெல்",
+    "category": "Cereal / தானியம்",
+    "suitable_soils": [
+      "clay",
+      "loamy",
+      "black"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "whole_year"
+    ],
+    "water_requirement": "High",
+    "water_availability": [
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "sufficient_irrigation",
+    "description": "Rice is a primary staple crop thriving in warm, humid weather with standing water in fields. நெல் அதிக நீர் மற்றும் வெப்பமான சூழலில் நன்கு வளரும் முக்கிய உணவுப் பயிர்.",
+    "soil_suitability_reason": "Clay and heavy loamy soils retain water extremely well for paddy root nourishment. களிமண் மற்றும் வண்டல் மண் நீரைத் தேக்கி வைத்து நெல் வேர்களுக்கு சிறந்த ஈரப்பதத்தை அளிக்கிறது.",
+    "season_suitability_reason": "Warm temperatures (22°C - 32°C) and monsoon humidity provide optimal vegetative growth. குறுவை மற்றும் சம்பா பருவ வெப்பநிலை நெல் பயிர் வளர்ச்சிக்கு மிகச் சிறந்தது.",
+    "water_requirement_reason": "Requires standing water (120-200 cm total moisture) during tillering and flowering. கதிர் வெளிவரும் மற்றும் பூக்கும் பருவத்தில் போதிய பாசன நீர் அவசியம்.",
+    "rotation_advice": "Ideal following pulses (blackgram, mungbean) to replenish natural soil nitrogen. உளுந்து அல்லது பாசிப்பயறுக்கு பின் பயிரிடுவது நிலத்தின் தழைச்சத்தை அதிகரிக்கும்.",
+    "image": "/crops/rice.jpg"
+  },
+  "coconut": {
+    "name": "Coconut / தென்னை",
+    "name_en": "Coconut",
+    "name_ta": "தென்னை",
+    "category": "Plantation / தோட்டப்பயிர்",
+    "suitable_soils": [
+      "sandy",
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "High",
+    "water_availability": [
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "The 'Kalpavriksha' palm highly suited for coastal and warm humid tropical regions. தென்னை பல்லாண்டு வாழும் அத்தியாவசிய வணிகப் பயிராகும்.",
+    "soil_suitability_reason": "Coastal sandy loams, alluvial, and red laterite soils with good drainage promote deep fibrous root development. மணல் கலந்த இருமண் மற்றும் செம்மண் தென்னை வேர் வளர்ச்சிக்கு ஏற்றது.",
+    "season_suitability_reason": "Warm humid tropical climate (22°C - 32°C) with plenty of sunshine ensures continuous nut production. ஆண்டு முழுவதும் போதிய சூரிய ஒளியும் மிதமான ஈரப்பதமும் தேவை.",
+    "water_requirement_reason": "High water consumer (needs 40-50 liters per palm daily). Basin or drip irrigation maintains regular yield. ஒரு மரத்திற்கு தினசரி 40-50 லிட்டர் பாசன நீர் அவசியம்.",
+    "rotation_advice": "Ideal for multi-tier intercropping with banana, cocoa, and pepper. வாழை மற்றும் மிளகு ஆகியவற்றுடன் ஊடுபயிராக பயிரிட ஏற்றது.",
+    "image": "/crops/coconut.jpg"
+  },
+  "cotton": {
+    "name": "Cotton / பருத்தி",
+    "name_en": "Cotton",
+    "name_ta": "பருத்தி",
+    "category": "Fiber / இழைப்பயிர்",
+    "suitable_soils": [
+      "black",
+      "loamy",
+      "alluvial"
+    ],
+    "suitable_seasons": [
+      "kharif"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Known as 'White Gold', cotton is a vital cash fiber crop with high commercial value. பருத்தி பணப்பயிராக அதிக வருவாய் ஈட்டித் தரும் இழைப்பயிர்.",
+    "soil_suitability_reason": "Deep black cotton soils ('Regur') retain moisture effectively during boll formation. கரிசல் மண் ஈரப்பதத்தை நீண்ட நேரம் தக்கவைத்து பருத்தி வளர்ச்சிக்கு உதவுகிறது.",
+    "season_suitability_reason": "Requires warm growing season (21°C - 30°C) with bright, sunny weather during boll opening. காய் வெடிக்கும் பருவத்தில் நல்ல வெயிலும் உலர் வானிலையும் தேவை.",
+    "water_requirement_reason": "Needs 50-75 cm water. Avoid excess water during boll bursting. காய் வெடிக்கும் தருணத்தில் அதிக நீர் பாய்ச்சுவதைத் தவிர்க்கவும்.",
+    "rotation_advice": "Rotate with pulses (chickpea or blackgram) to break pest cycles. பயறு வகைகளுடன் சுழற்சி முறையில் பயிரிடுவது பூச்சி தாக்குதலைக் குறைக்கும்.",
+    "image": "/crops/cotton.jpg"
+  },
+  "banana": {
+    "name": "Banana / வாழை",
+    "name_en": "Banana",
+    "name_ta": "வாழை",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "clay",
+      "black"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "High",
+    "water_availability": [
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "sufficient_irrigation",
+    "description": "A high-yielding, fast-growing fruit crop giving quick economic returns with assured irrigation. வாழை அதிக மகசூல் தரும் முக்கியமான பழப்பயிராகும்.",
+    "soil_suitability_reason": "Deep, fertile, well-drained loamy and clay soils rich in organic matter. தழைச்சத்து நிறைந்த வளமான வண்டல் மண் மற்றும் இருமண் சிறந்தது.",
+    "season_suitability_reason": "Thrives in warm, tropical climate (20°C - 35°C) throughout its 10-12 month cycle. வெப்பமண்டல சீதோஷ்ண நிலையில் ஆண்டு முழுவதும் செழித்து வளரும்.",
+    "water_requirement_reason": "High moisture requirement (150-200 cm). Regular drip or basin irrigation every 4-6 days is vital. சீரான பாசன வசதி அதிக எடையுள்ள தார்கள் கிடைக்க உதவும்.",
+    "rotation_advice": "Rotate with green manure crops or pulses after harvest to revitalize subsoil. அறுவடைக்குப் பின் தக்கைப்பூண்டு அல்லது பயறு வகை பயிரிடுவது நலம்.",
+    "image": "/crops/banana.jpg"
+  },
+  "maize": {
+    "name": "Maize / மக்காச்சோளம்",
+    "name_en": "Maize (Corn)",
+    "name_ta": "மக்காச்சோளம்",
+    "category": "Cereal / தானியம்",
+    "suitable_soils": [
+      "loamy",
+      "red",
+      "black",
+      "sandy"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "rabi",
+      "zaid"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Adaptable cereal valued for food, poultry feed, and animal fodder with high productivity. மக்காச்சோளம் குறைந்த காலத்தில் நல்ல விளைச்சல் தரும் தானியப்பயிர்.",
+    "soil_suitability_reason": "Well-drained loamy, red, and black soils prevent waterlogging around root zone. நீர் தேங்காத இருமண் மற்றும் செம்மண் வேர் வளர்ச்சிக்கு ஏற்றது.",
+    "season_suitability_reason": "Performs well in sunny weather with moderate temperatures (18°C - 27°C). காரிஃப் மற்றும் ரபி ஆகிய இரு பருவங்களிலும் பயிரிடலாம்.",
+    "water_requirement_reason": "Requires 45-65 cm water. Ensure irrigation during silking and cob development. பூ பூக்கும் மற்றும் கதிர் பிடிக்கும் சமயத்தில் பாசனம் அவசியம்.",
+    "rotation_advice": "Pairs nicely in rotation with pulses (blackgram, soybean) to sustain soil fertility. உளுந்து அல்லது சோயாபீன்ஸ் பயிர்களுக்குப் பின் பயிரிட சிறந்தது.",
+    "image": "/crops/maize.jpg"
+  },
+  "coffee": {
+    "name": "Coffee / காபி",
+    "name_en": "Coffee",
+    "name_ta": "காபி",
+    "category": "Plantation / தோட்டப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "High",
+    "water_availability": [
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "High-value plantation beverage crop grown under shade canopy on hill slopes. காபி மலைப்பிரதேசங்களில் நிழல் மரங்களின் கீழ் வளரும் உயர்மதிப்பு தோட்டப்பயிர்.",
+    "soil_suitability_reason": "Porous, deep, humus-rich loamy and red lateritic soils on sloping hill slopes. வடிகால் வசதியுள்ள அங்ககச் சத்து நிறைந்த மலைச் சரிவு மண்.",
+    "season_suitability_reason": "Equable hill climate (15°C - 28°C) with mist and blossom showers in early spring. மிதமான குளிர்ச்சியும் வசந்த காலப் பருவ மழையும் பூக்களுக்கு ஏற்றது.",
+    "water_requirement_reason": "Needs 150-250 cm rainfall or sprinkler irrigation, especially blossom showers in March-April. பூ மலரும் மார்ச்-ஏப்ரல் பருவத்தில் பாசனம் மிகவும் முக்கியம்.",
+    "rotation_advice": "Perennial agroforestry plantation intercropped with black pepper and silver oak. மிளகு கொடிகளுடன் சேர்த்து நிழல் மரங்களில் பயிரிடலாம்.",
+    "image": "/crops/coffee.jpg"
+  },
+  "mango": {
+    "name": "Mango / மாம்பழம்",
+    "name_en": "Mango",
+    "name_ta": "மாம்பழம்",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "red",
+      "alluvial",
+      "black"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "The king of fruits with extensive commercial market across India. மாந்தோப்பு நீண்ட காலம் பலன் தரும் சிறந்த பழத்தோட்டப் பயிராகும்.",
+    "soil_suitability_reason": "Deep alluvial, red, and loamy soils allow extensive taproot penetration. ஆழமான வேர் அமைப்பிற்கு உகந்த செம்மண் மற்றும் வண்டல் மண்.",
+    "season_suitability_reason": "Requires tropical/subtropical climate with dry sunny spell during flowering (Jan-March). பூக்கும் பருவத்தில் பனி மற்றும் மழை இல்லாத வறண்ட வானிலை தேவை.",
+    "water_requirement_reason": "Needs moderate irrigation during fruit development. Stop watering before harvest for sweetness. காய் பிடிக்கும் பருவத்தில் மிதமான பாசனம் போதுமானது.",
+    "rotation_advice": "Intercrop with short-duration vegetables or pulses in early orchard years. ஆரம்ப வருடங்களில் காய்கறிகள் அல்லது பயறு வகைகளை ஊடுபயிராக இடலாம்.",
+    "image": "/crops/mango.jpg"
+  },
+  "chickpea": {
+    "name": "Chickpea / கொண்டைக்கடலை",
+    "name_en": "Chickpea (Chana)",
+    "name_ta": "கொண்டைக்கடலை",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "loamy",
+      "black",
+      "clay"
+    ],
+    "suitable_seasons": [
+      "rabi"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "Premier winter pulse crop that naturally enriches soil nitrogen and thrives on minimal moisture. கொண்டைக்கடலை குறைந்த நீரில் வளரும் புரதச்சத்து நிறைந்த பயறு.",
+    "soil_suitability_reason": "Deep black and clay loam soils retain residual post-monsoon moisture. கரிசல் மண் பனிக்கால ஈரப்பதத்தை வேர்களுக்குத் தக்கவைத்துத் தருகிறது.",
+    "season_suitability_reason": "Thrives in mild, sunny winter weather (15°C - 25°C). Excess rain causes flower drop. மிதமான குளிர்கால வெயில் வளர்ச்சிக்கு நல்லது.",
+    "water_requirement_reason": "Very drought hardy (25-35 cm moisture). 1 to 2 light irrigations produce excellent harvests. ஒன்று அல்லது இரண்டு லேசான பாசனங்களே போதுமானது.",
+    "rotation_advice": "Ideal rotation crop after paddy or maize to restore natural nitrogen. நெல் அறுவடைக்கு பின் உழவு செய்து பயிரிட சிறந்த பயிர்.",
+    "image": "/crops/chickpea.jpg"
+  },
+  "pigeonpeas": {
+    "name": "Pigeonpeas / துவரை",
+    "name_en": "Pigeonpeas (Toor Dal)",
+    "name_ta": "துவரை",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "black",
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "whole_year"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "Deep-rooted, drought-tolerant legume capable of tapping subsoil moisture in dry conditions. துவரை மானாவாரியிலும் வளரக்கூடிய சிறந்த புரதப் பயிர்.",
+    "soil_suitability_reason": "Deep black and well-drained loamy soils support its deep taproot system. ஆழமான ஆணிவேர் கொண்ட பயிராதலால் செம்மண் மற்றும் கரிசல் மண் உகந்தது.",
+    "season_suitability_reason": "Grows vigorously during monsoon warmth (26°C - 35°C) and matures into dry winter. காரிஃப் பருவத்தில் விதைக்கப்பட்டு குளிர் காலத்தில் அறுவடைக்கு வரும்.",
+    "water_requirement_reason": "Resilient rainfed crop (35-45 cm water). Needs water only during severe drought. குறைந்த நீரில் வறட்சியைத் தாங்கி வளரக்கூடியது.",
+    "rotation_advice": "Enriches soil with abundant fallen leaf organic biomass. நிலத்திற்கு அதிக இலை தழைகளையும் தழைச்சத்தையும் சேர்க்கும்.",
+    "image": "/crops/pigeonpeas.jpg"
+  },
+  "blackgram": {
+    "name": "Blackgram / உளுந்து",
+    "name_en": "Blackgram (Urad)",
+    "name_ta": "உளுந்து",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "black",
+      "loamy",
+      "clay"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "Short-duration pulse of immense nutritional value, widely grown in Tamil Nadu and southern India. உளுந்து 70-80 நாட்களில் பலன் தரும் தமிழகத்தின் முதன்மைப் பயறு.",
+    "soil_suitability_reason": "Clay loam, alluvial, and black soils retaining moderate moisture for short cycle. நெல் தரிசுக்கு ஏற்ற வண்டல் மற்றும் கரிசல் நிலங்கள்.",
+    "season_suitability_reason": "Thrives in warm, humid weather (25°C - 35°C) and mild winter conditions. சம்பா நெல்லுக்கு பின் தாளடி/குளிர்கால உளுந்தாக பயிரிடலாம்.",
+    "water_requirement_reason": "Requires low water (30-40 cm). Tolerates short dry spells once established. குறைந்த நீர்த் தேவையும் வறட்சி தாங்கும் திறனும் கொண்டது.",
+    "rotation_advice": "Most popular rice-fallow pulse in Cauvery delta; fixes soil nitrogen naturally. காவிரி டெல்டா நெல் தரிசில் விதைக்க மிகவும் சிறந்தது.",
+    "image": "/crops/blackgram.jpg"
+  },
+  "mungbean": {
+    "name": "Mungbean / பாசிப்பயறு",
+    "name_en": "Mungbean (Green Gram)",
+    "name_ta": "பாசிப்பயறு",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "loamy",
+      "sandy",
+      "black",
+      "red"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "zaid"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "A quick 60 to 70-day pulse crop ideal as a catch crop between main farming seasons. பாசிப்பயறு குறைந்த கால இடைவெளியில் பலன் தரும் பயறு.",
+    "soil_suitability_reason": "Well-drained fertile loamy or sandy loam soils preventing root rot. நல்ல வடிகால் வசதியுள்ள இருமண் மற்றும் மணல் கலந்த நிலம்.",
+    "season_suitability_reason": "Performs best in warm temperatures (25°C - 35°C); ideal for summer and monsoon. கோடை மற்றும் பருவமழை காலங்களில் விரைந்து வளரும்.",
+    "water_requirement_reason": "Low water requirement (25-35 cm). 2-3 timely irrigations yield bumper harvests. இரண்டு அல்லது மூன்று முறை நீர் பாய்ச்சினால் போதுமானது.",
+    "rotation_advice": "Excellent intercrop or catch crop to enrich soil health before next paddy sowing. அடுத்த நெல் பயிருக்கு முன் நிலத்தை வளப்படுத்த உதவும்.",
+    "image": "/crops/mungbean.jpg"
+  },
+  "mothbeans": {
+    "name": "Moth Beans / நரிப்பயறு",
+    "name_en": "Moth Beans",
+    "name_ta": "நரிப்பயறு",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "sandy",
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "kharif"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "Exceptionally drought-resistant legume ideal for arid and sandy soil tracts. மிகக் கடுமையான வறட்சியையும் தாங்கி வளரக்கூடிய சிறுதானிய பயறு.",
+    "soil_suitability_reason": "Thrives on light sandy and gravelly soils where other crops suffer moisture stress. மணற்பாங்கான வறண்ட நிலங்களுக்கு ஏற்றது.",
+    "season_suitability_reason": "Adapted to hot, dry climate with low erratic rainfall. வெப்பமான வறண்ட பருவ நிலைக்கு மிகவும் பொருத்தமானது.",
+    "water_requirement_reason": "Requires as little as 20-30 cm rainfall; no irrigation needed under normal rains. இயற்கை மழையிலேயே வளரக்கூடியது.",
+    "rotation_advice": "Prevents soil erosion and improves organic carbon in light soils. மண் அரிப்பைத் தடுத்து நிலத்தின் வளத்தை பாதுகாக்கிறது.",
+    "image": "/crops/mothbeans.jpg"
+  },
+  "lentil": {
+    "name": "Lentil / மசூர் பருப்பு",
+    "name_en": "Lentil (Masoor)",
+    "name_ta": "மசூர் பருப்பு",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "loamy",
+      "clay",
+      "alluvial",
+      "black"
+    ],
+    "suitable_seasons": [
+      "rabi"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "rain_fed",
+      "limited_irrigation"
+    ],
+    "min_water_level": "rain_fed",
+    "description": "Cold-season pulse that produces reliably on residual soil moisture. குளிர்காலத்தில் எஞ்சிய ஈரப்பதத்தில் வளரும் சத்தான பருப்பு.",
+    "soil_suitability_reason": "Loamy and alluvial clay soils with good moisture retention from late monsoon. மிதமான ஈரப்பதம் கொண்ட வண்டல் மற்றும் இருமண்.",
+    "season_suitability_reason": "Requires cool temperatures during early vegetative growth (15°C - 20°C). குளிர்கால துவக்கத்தில் விதைக்க உகந்தது.",
+    "water_requirement_reason": "Needs minimal irrigation (20-30 cm). Often grown under paira cropping. மிகக் குறைந்த நீர்ப்பாசனமே போதுமானது.",
+    "rotation_advice": "Follows paddy or maize seamlessly on residual moisture. நெல் அறுவடைக்கு பின் நிலத்தை உழாமல் விதைக்கலாம்.",
+    "image": "/crops/lentil.jpg"
+  },
+  "pomegranate": {
+    "name": "Pomegranate / மாதுளை",
+    "name_en": "Pomegranate",
+    "name_ta": "மாதுளை",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "sandy",
+      "black",
+      "red"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Low",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "High-value fruit crop well suited to semi-arid climates with strong drought tolerance and high returns. மாதுளை வறட்சியைத் தாங்கி அதிக லாபம் தரும் பழப்பயிர்.",
+    "soil_suitability_reason": "Light, well-drained sandy loam or gravelly soil avoids collar rot. நல்ல வடிகால் வசதியுள்ள செம்மண் மற்றும் இருமண் சிறந்தது.",
+    "season_suitability_reason": "Hot, dry summers and cool winters develop fruit sweetness and ruby color. வறண்ட வெப்பமும் மிதமான குளிரும் பழத்தின் சுவையை அதிகரிக்கும்.",
+    "water_requirement_reason": "Drip irrigation is highly recommended; requires measured water application. சொட்டுநீர்ப் பாசனம் மூலம் அளவாக நீர் பாய்ச்சுவது சிறந்தது.",
+    "rotation_advice": "Perennial orchard crop productive for 15-20 years. Intercrop with pulses early on. முதல் 2-3 வருடங்களில் பயறு வகைகளை ஊடுபயிராக இடலாம்.",
+    "image": "/crops/pomegranate.jpg"
+  },
+  "grapes": {
+    "name": "Grapes / திராட்சை",
+    "name_en": "Grapes",
+    "name_ta": "திராட்சை",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "sandy",
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "sufficient_irrigation",
+      "limited_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Commercial vineyard crop with excellent profitability under systematic trellis management. திராட்சை பந்தல் அமைப்பில் அதிக லாபம் தரும் பழப்பயிர்.",
+    "soil_suitability_reason": "Well-drained sandy loam and gravelly red soils prevent root asphyxiation. வேரில் நீர் தேங்காத செம்மண் மற்றும் மணல் கலந்த இருமண்.",
+    "season_suitability_reason": "Thrives in warm, dry weather during berry development and ripening. காய் பிடிக்கும் மற்றும் பழுக்கும் தருணத்தில் உலர் வானிலை தேவை.",
+    "water_requirement_reason": "Requires precise drip irrigation with water cutoff prior to harvest for high sugar. அறுவடைக்கு முன் நீர் குறைப்பது திராட்சையின் இனிப்பை கூட்டும்.",
+    "rotation_advice": "Permanent vineyard layout requiring trellis infrastructure. நீண்ட கால பந்தல் அமைப்பில் பராமரிக்கப்படும் பயிர்.",
+    "image": "/crops/grapes.jpg"
+  },
+  "watermelon": {
+    "name": "Watermelon / தர்பூசணி",
+    "name_en": "Watermelon",
+    "name_ta": "தர்பூசணி",
+    "category": "Cucurbit / கோடைப் பழம்",
+    "suitable_soils": [
+      "sandy",
+      "loamy"
+    ],
+    "suitable_seasons": [
+      "zaid",
+      "kharif"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Quick-return summer crop yielding juicy fruits in 80 to 90 days, especially on sandy soils. தர்பூசணி கோடை காலத்தில் குறுகிய நாளில் நல்ல வருமானம் தரும் பயிர்.",
+    "soil_suitability_reason": "Warm sandy and sandy loam soils promote rapid root warm-up and deep growth. ஆற்றுப்படுகை மற்றும் மணல் கலந்த நிலங்களில் நன்கு வளரும்.",
+    "season_suitability_reason": "Requires long, hot sunny days (24°C - 35°C) for high fruit sugar content. நல்ல வெயிலும் வெப்பமும் பழத்தை இனிப்பாக மாற்றும்.",
+    "water_requirement_reason": "Frequent, controlled irrigation is needed. Reduce water near ripening to avoid cracking. பழம் பழுக்கும் போது நீர் குறைப்பது காய் வெடிப்பைத் தடுக்கும்.",
+    "rotation_advice": "Ideal summer crop grown after harvesting paddy or sugarcane. நெல் அல்லது கரும்பு அறுவடைக்கு பின் கோடைப் பயிராக இடலாம்.",
+    "image": "/crops/watermelon.jpg"
+  },
+  "muskmelon": {
+    "name": "Muskmelon / முலாம் பழம்",
+    "name_en": "Muskmelon",
+    "name_ta": "முலாம் பழம்",
+    "category": "Cucurbit / கோடைப் பழம்",
+    "suitable_soils": [
+      "sandy",
+      "loamy"
+    ],
+    "suitable_seasons": [
+      "zaid"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Aromatic summer fruit fetching great market prices during hot summer months. முலாம் பழம் மணமும் சுவையும் கொண்ட கோடைப் பழப்பயிர்.",
+    "soil_suitability_reason": "Light sandy and riverbed loam soils allow rapid vine run and root aeration. மணல் பாங்கான இலகுவான நிலங்களில் கொடி நன்கு படரும்.",
+    "season_suitability_reason": "Requires high temperatures (27°C - 35°C) and low humidity during ripening. குறைந்த ஈரப்பதமும் வெயிலும் சிறந்த சுவையைத் தரும்.",
+    "water_requirement_reason": "Moderate water demand (35-50 cm). Stop irrigation 5-7 days before harvest. அறுவடைக்கு ஒரு வாரம் முன் பாசனத்தை நிறுத்த வேண்டும்.",
+    "rotation_advice": "Fits well in short summer rotations following winter harvests. குளிர்கால பயிர்களுக்குப் பின் குறுகிய கால பயிராக இடலாம்.",
+    "image": "/crops/muskmelon.jpg"
+  },
+  "apple": {
+    "name": "Apple / ஆப்பிள்",
+    "name_en": "Apple",
+    "name_ta": "ஆப்பிள்",
+    "category": "Horticulture / மலைப் பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "clay"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "sufficient_irrigation",
+      "limited_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Premier temperate fruit crop cultivated on high altitude hill tracts. ஆப்பிள் அதிக உயரம் கொண்ட குளிர்ந்த மலைப் பகுதிகளில் விளையும் பழப்பயிர்.",
+    "soil_suitability_reason": "Deep, well-drained loamy soil rich in organic matter on hill slopes. மலைச் சரிவுகளில் அங்ககச் சத்து நிறைந்த வளமான இருமண்.",
+    "season_suitability_reason": "Requires winter chilling hours below 7°C to break bud dormancy. பூக்கள் மலர குளிர்கால பனிப்பொழிவு மற்றும் குளிர் சீதோஷ்ணம் அவசியம்.",
+    "water_requirement_reason": "Needs 100-120 cm water distributed throughout fruit development. காய் பிடிக்கும் பருவத்தில் போதிய ஈரப்பதம் தேவை.",
+    "rotation_advice": "Perennial orchard crop. Maintain green ground cover to prevent slope soil erosion. சரிவுகளில் மண் அரிப்பைத் தடுக்க தரைக்கவர் பயிர்களை இடலாம்.",
+    "image": "/crops/apple.jpg"
+  },
+  "orange": {
+    "name": "Orange / ஆரஞ்சு",
+    "name_en": "Orange (Citrus)",
+    "name_ta": "ஆரஞ்சு",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "red",
+      "black"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Popular citrus fruit that thrives in sunny subtropical conditions with cool nights. ஆரஞ்சு மற்றும் எலுமிச்சை வகை பழங்கள் நல்ல வருமானம் தரும்.",
+    "soil_suitability_reason": "Well-drained light black or loamy soils free from hard kankar pans. வடிகால் வசதி கொண்ட செம்மண் மற்றும் மென்மையான இருமண்.",
+    "season_suitability_reason": "Prefers subtropical climate (15°C - 32°C). Cool nights encourage bright color. பகல் வெயிலும் இரவுப் பனியும் பழத்திற்கு நல்ல நிறத்தை தரும்.",
+    "water_requirement_reason": "Needs regular irrigation through drip systems (80-100 cm). Avoid water stress during fruit set. பூ பிடிக்கும் சமயத்தில் நீர் பற்றாக்குறை ஏற்படக்கூடாது.",
+    "rotation_advice": "Long-term orchard crop. Intercrop with pulses during initial 3 years. ஆரம்ப 3 ஆண்டுகளில் பயறு வகைகளை ஊடுபயிராக இடலாம்.",
+    "image": "/crops/orange.jpg"
+  },
+  "papaya": {
+    "name": "Papaya / பப்பாளி",
+    "name_en": "Papaya",
+    "name_ta": "பப்பாளி",
+    "category": "Horticulture / பழப்பயிர்",
+    "suitable_soils": [
+      "loamy",
+      "alluvial",
+      "red"
+    ],
+    "suitable_seasons": [
+      "whole_year"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "sufficient_irrigation",
+      "limited_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Fast-fruiting tropical tree crop that begins harvesting within 9-10 months from planting. பப்பாளி நட்ட 9-10 மாதங்களில் பலன் தரும் துரித பழப்பயிர்.",
+    "soil_suitability_reason": "Rich, friable loamy soil with excellent drainage; sensitive to waterlogging. நீர் தேங்காத வளமான செம்மண் மற்றும் இருமண் நிலங்கள்.",
+    "season_suitability_reason": "Thrives in warm, tropical climate (22°C - 34°C). Frost or water stagnation damages trees. வெப்பமண்டல சீதோஷ்ண நிலையில் தொடர்ச்சியாக காய்க்கும்.",
+    "water_requirement_reason": "Requires frequent shallow irrigation (every 6-10 days in winter, 3-5 days in summer). சீரான இடைவெளியில் மிதமான பாசனம் அளிக்க வேண்டும்.",
+    "rotation_advice": "Short-lived perennial (economic life 2-3 years). Rotate with legumes before replanting. 2-3 ஆண்டுகளுக்குப் பின் பயறு வகைகளை பயிரிட்டு நிலத்தை புதுப்பிக்கவும்.",
+    "image": "/crops/papaya.jpg"
+  },
+  "jute": {
+    "name": "Jute / சணல்",
+    "name_en": "Jute (Patson)",
+    "name_ta": "சணல்",
+    "category": "Fiber / இழைப்பயிர்",
+    "suitable_soils": [
+      "clay",
+      "loamy",
+      "alluvial"
+    ],
+    "suitable_seasons": [
+      "kharif"
+    ],
+    "water_requirement": "High",
+    "water_availability": [
+      "sufficient_irrigation",
+      "rain_fed"
+    ],
+    "min_water_level": "sufficient_irrigation",
+    "description": "The 'Golden Fiber' grown for biodegradable sacks, twine, and eco-packaging. சணல் இயற்கையான சுற்றுச்சூழலுக்கு உகந்த நார் தரும் இழைப்பயிர்.",
+    "soil_suitability_reason": "Alluvial silty clay loams along river plains naturally replenished each season. ஆற்றுப்படுகை மற்றும் களிமண் நிலங்களில் நன்கு வளரும்.",
+    "season_suitability_reason": "Warm, humid monsoon climate (25°C - 35°C) with relative humidity exceeding 75%. அதிக ஈரப்பதம் கொண்ட பருவமழை காலத்தில் செழித்து வளரும்.",
+    "water_requirement_reason": "Requires heavy moisture (120-160 cm) plus standing water for fiber retting. தண்டு அழுக வைத்து நார் எடுக்க போதிய நீர்நிலை தேவை.",
+    "rotation_advice": "Ideal Kharif predecessor before winter mustard, potato, or wheat. குளிர்கால பயிர்களுக்கு முன் விதைக்க ஏற்ற குறுகிய கால பயிர்.",
+    "image": "/crops/jute.jpg"
+  },
+  "kidneybeans": {
+    "name": "Kidney Beans / ராஜ்மா",
+    "name_en": "Kidney Beans (Rajma)",
+    "name_ta": "ராஜ்மா",
+    "category": "Pulse / பயறு வகை",
+    "suitable_soils": [
+      "loamy",
+      "red"
+    ],
+    "suitable_seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "water_requirement": "Medium",
+    "water_availability": [
+      "limited_irrigation",
+      "sufficient_irrigation"
+    ],
+    "min_water_level": "limited_irrigation",
+    "description": "Nutritious, high-protein pulse crop that thrives in mild, temperate to cool conditions. ராஜ்மா அதிக புரதச்சத்து கொண்ட உயர் மதிப்பு பயறு.",
+    "soil_suitability_reason": "Light, friable loamy soil with rich organic matter supports delicate root nodulation. அங்ககச் சத்து நிறைந்த உலர் இருமண் மற்றும் செம்மண்.",
+    "season_suitability_reason": "Prefers moderate temperatures (15°C - 24°C) without extreme heat or scorching sun. மிதமான குளிர்கால சீதோஷ்ணம் வளர்ச்சிக்கு ஏற்றது.",
+    "water_requirement_reason": "Requires regular, light moisture (40-50 cm) without water stagnation. வேர்களில் நீர் தேங்காமல் மிதமான பாசனம் அளிக்க வேண்டும்.",
+    "rotation_advice": "Rotates effectively with maize, potatoes, or wheat to maintain balanced soil nutrition. மக்காச்சோளம் மற்றும் உருளைக்கிழங்கு பயிர்களுக்குப் பின் பயிரிடலாம்.",
+    "image": "/crops/kidneybeans.jpg"
+  }
+}
